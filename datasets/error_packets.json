@@ -8,14 +8,14 @@
                 "metric": {
                     "Brand": "Arista",
                     "Role": "IDC/ECR",
-                    "agent_host": "107.155.33.3",
+                    "agent_host": "1.1.1.1",
                     "busigroup": "IDC",
-                    "ident": "001.jkt3.id.k1s.zenlayer.win",
-                    "ifalias": "IXP:ixp(IIX):bw(200G)",
+                    "ident": "xxx.zenlayer.win",
+                    "ifalias": "ifalias",
                     "ifname": "Port-Channel13",
-                    "location": "ap/id/jkt15",
-                    "port": "Port-Channel13  IXP:ixp(IIX):bw(200G)",
-                    "visible_name": "3.ecr.idc.jkt15"
+                    "location": "ap/id/jkt99",
+                    "port": "Port-Channel13  IXP:ixp(III):bw(999G)",
+                    "visible_name": "1.cs.idc.jkt"
                 },
                 "values": [
                     [
